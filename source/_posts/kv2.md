@@ -1,7 +1,6 @@
 ---
 title: 好吃又大碗的KV-2
-tags:
-  - models
+tags: [model]
 date: 2017-12-22 23:09:36
 ---
 

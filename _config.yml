@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 蒿蒿的模型站
+title: 蒿蒿的闲言碎语
 subtitle: ''
-description: ''
+description: '记录一些无聊的东西'
 keywords:
 author: 蒿蒿
 language: zh-CN
@@ -101,4 +101,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/harviu/chinese_blog.git
+  branch: gh-pages
+  message: 

@@ -1,7 +1,6 @@
 ---
 title: 第一只模型FlakPanzer IV Ostwind
-tags:
-  - models
+tags: [model]
 date: 2017-12-22 23:09:05
 ---
 

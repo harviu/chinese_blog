@@ -1,7 +1,7 @@
 ---
 title: 新人都要有的公羊
-tags:
-  - models
+tags: [model]
+categories: [model]
 date: 2017-12-22 23:09:57
 ---
 

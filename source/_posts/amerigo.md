@@ -1,7 +1,6 @@
 ---
 title: 训练舰Amerigo Vespucci
-tags:
-  - models
+tags: [model]
 date: 2017-12-21 23:10:49
 ---
 
